@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, Cambria, "Times New Roman", Times, serif;
+  --font-sans: "Plus Jakarta Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  
+  --color-maroon-primary: #650D25;
+  --color-maroon-dark: #420817;
+  --color-pink-blush: #FCE7EF;
+  --color-pink-soft: #F8D5E2;
+  --color-warm-white: #FFF9FB;
+  --color-brand-text: #30212A;
+  --color-brand-muted: #796873;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: var(--font-sans);
+}
+
+h1, h2, h3, .font-serif {
+  font-family: var(--font-serif);
+}
+
+/* Custom scrollbar for modern browsers */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FFF9FB;
+}
+::-webkit-scrollbar-thumb {
+  background: #F8D5E2;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #650D25;
+}

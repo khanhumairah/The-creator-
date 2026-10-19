@@ -1,0 +1,6 @@
+{
+  "name": "The Creator Edit",
+  "description": "An honest, evidence-based publication on content creation, Instagram growth, brand partnerships, UGC, and creator monetization in India and beyond.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
