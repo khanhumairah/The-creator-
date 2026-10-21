@@ -11,7 +11,7 @@ export const article9: Article = {
   publishedDate: '2026-06-04',
   lastVerifiedDate: '2026-10-10',
   readingTimeMinutes: 10,
-  heroImage: '/src/assets/images/editorial_legal_asci_compliance_1791866019951.jpg',
+  heroImage: '/images/editorial_legal_asci_compliance_1791866019951.jpg',
   imageAlt: 'Legal agreement document with tablet showing ASCI influencer advertising disclosure rules in India',
   featured: false,
   primaryKeyword: 'ASCI influencer guidelines',

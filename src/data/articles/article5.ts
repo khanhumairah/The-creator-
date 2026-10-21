@@ -11,7 +11,7 @@ export const article5: Article = {
   publishedDate: '2026-04-05',
   lastVerifiedDate: '2026-10-11',
   readingTimeMinutes: 8,
-  heroImage: '/src/assets/images/editorial_media_kit_portfolio_1791866019678.jpg',
+  heroImage: '/images/editorial_media_kit_portfolio_1791866019678.jpg',
   imageAlt: 'Laptop displaying clean creator media kit with verified audience demographic graphs and metrics',
   featured: false,
   primaryKeyword: 'creator media kit',

@@ -11,7 +11,7 @@ export const article7: Article = {
   publishedDate: '2026-05-02',
   lastVerifiedDate: '2026-10-11',
   readingTimeMinutes: 8,
-  heroImage: '/src/assets/images/editorial_reels_video_editing_1791866021499.jpg',
+  heroImage: '/images/editorial_reels_video_editing_1791866021499.jpg',
   imageAlt: 'Smartphone on mini tripod displaying video editor timeline with audio waves and retention markers',
   featured: false,
   primaryKeyword: 'Instagram Reels analytics',

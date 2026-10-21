@@ -11,7 +11,7 @@ export const article2: Article = {
   publishedDate: '2026-03-01',
   lastVerifiedDate: '2026-10-11',
   readingTimeMinutes: 9,
-  heroImage: '/src/assets/images/editorial_social_analytics_1791864558036.jpg',
+  heroImage: '/images/editorial_social_analytics_1791864558036.jpg',
   imageAlt: 'Tablet displaying Instagram growth metrics, retention curves, and algorithm ranking indicators',
   featured: true,
   primaryKeyword: 'Instagram algorithm 2026',

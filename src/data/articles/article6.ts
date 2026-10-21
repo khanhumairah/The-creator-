@@ -11,7 +11,7 @@ export const article6: Article = {
   publishedDate: '2026-04-18',
   lastVerifiedDate: '2026-10-10',
   readingTimeMinutes: 9,
-  heroImage: '/src/assets/images/editorial_creator_pricing_finance_1791866019195.jpg',
+  heroImage: '/images/editorial_creator_pricing_finance_1791866019195.jpg',
   imageAlt: 'Creator calculating commercial rates, invoices, and TDS deductions in a notebook with calculator',
   featured: true,
   primaryKeyword: 'how much to charge for content creation India',

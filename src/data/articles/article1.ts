@@ -11,7 +11,7 @@ export const article1: Article = {
   publishedDate: '2026-02-14',
   lastVerifiedDate: '2026-10-10',
   readingTimeMinutes: 7,
-  heroImage: '/src/assets/images/editorial_camera_gear_1791864556367.jpg',
+  heroImage: '/images/editorial_camera_gear_1791864556367.jpg',
   imageAlt: 'Smartphone, clip-on lavalier microphone, and planner on travertine desk for beginner content creation',
   featured: true,
   primaryKeyword: 'how to start content creation',

@@ -11,7 +11,7 @@ export const article8: Article = {
   publishedDate: '2026-05-19',
   lastVerifiedDate: '2026-10-08',
   readingTimeMinutes: 8,
-  heroImage: '/src/assets/images/editorial_content_calendar_planning_1791866021276.jpg',
+  heroImage: '/images/editorial_content_calendar_planning_1791866021276.jpg',
   imageAlt: 'Open planner flat lay with color-coded content creation schedules, sticky notes, and phone',
   featured: false,
   primaryKeyword: 'content calendar workflow',

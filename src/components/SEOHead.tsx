@@ -85,7 +85,7 @@ export const SEOHead: React.FC<SEOHeadProps> = ({ metadata }) => {
         url: SITE_DOMAIN,
         logo: {
           '@type': 'ImageObject',
-          url: `${SITE_DOMAIN}/src/assets/images/hero_creator_workspace_1791864556523.jpg`
+          url: `${SITE_DOMAIN}/images/hero_creator_workspace_1791864556523.jpg`
         }
       }
     });

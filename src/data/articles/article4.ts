@@ -11,7 +11,7 @@ export const article4: Article = {
   publishedDate: '2026-03-22',
   lastVerifiedDate: '2026-10-09',
   readingTimeMinutes: 8,
-  heroImage: '/src/assets/images/editorial_ugc_filming_1791866018941.jpg',
+  heroImage: '/images/editorial_ugc_filming_1791866018941.jpg',
   imageAlt: 'Creator filming vertical product demonstration with soft LED light for UGC commercial ads',
   featured: false,
   primaryKeyword: 'UGC vs influencer marketing',

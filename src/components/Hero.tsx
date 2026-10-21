@@ -85,7 +85,7 @@ export const Hero: React.FC<HeroProps> = ({ onExploreArticles, onStartHere }) =>
               <div className="relative rounded-xl overflow-hidden shadow-xl border border-[#F8D5E2] bg-[#FFF9FB] aspect-[16/10] sm:aspect-[4/3] lg:aspect-[16/11]">
                 {!imageError ? (
                   <img
-                    src="/src/assets/images/hero_creator_workspace_1791864556523.jpg"
+                    src="/images/hero_creator_workspace_1791864556523.jpg"
                     alt="Content creator desk workspace with mirrorless camera, smartphone tripod, notebook, and natural light"
                     referrerPolicy="no-referrer"
                     onError={() => setImageError(true)}

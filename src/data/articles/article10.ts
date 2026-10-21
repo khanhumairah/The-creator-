@@ -11,7 +11,7 @@ export const article10: Article = {
   publishedDate: '2026-06-25',
   lastVerifiedDate: '2026-10-11',
   readingTimeMinutes: 9,
-  heroImage: '/src/assets/images/editorial_creator_security_1792050767657.jpg',
+  heroImage: '/images/editorial_creator_security_1792050767657.jpg',
   imageAlt: 'Content creator inspecting digital security checklist and cyber protection tools on tablet',
   featured: false,
   primaryKeyword: 'content creation scams',

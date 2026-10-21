@@ -11,7 +11,7 @@ export const article3: Article = {
   publishedDate: '2026-03-12',
   lastVerifiedDate: '2026-10-10',
   readingTimeMinutes: 8,
-  heroImage: '/src/assets/images/editorial_brand_collab_1791864557555.jpg',
+  heroImage: '/images/editorial_brand_collab_1791864557555.jpg',
   imageAlt: 'Content creator reviewing brand campaign brief, laptop, and sponsorship agreement on desk',
   featured: true,
   primaryKeyword: 'how to get brand collaborations',
