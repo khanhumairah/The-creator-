@@ -42,6 +42,7 @@ export const SEOHead: React.FC<SEOHeadProps> = ({ metadata }) => {
       `${metadata.primaryKeyword}, ${metadata.secondaryKeywords.join(', ')}`
     );
     setMetaTag('meta[name="robots"]', 'name', 'robots', metadata.indexingPreference);
+    setMetaTag('meta[name="google-site-verification"]', 'name', 'google-site-verification', '8ljlhzdpSOngqJJEjTG_ySEfZvJxe4jiEbJj3nf_pdA');
 
     // 3. Canonical Tag
     setLinkTag('canonical', metadata.canonicalUrl);
